@@ -12,9 +12,9 @@ API that consume the GitHub APIs (users and repositories endpoints).
     ```GET - /api/users/:username/details```  
     ```GET - /api/users/:username/repos```  
 
-    * For localhost tests need to:
-    1 - Clone this repo
-    2 - Run ```npm install```   on project folder
-    3 - Run ```node server.js```   on project folder
-    4 - Check localhost port of the app in console
-    5 - Access endpoints with the localhost path
+    * For localhost tests need to:  
+    1 - Clone this repo    
+    2 - Run ```npm install```   on project folder    
+    3 - Run ```node server.js```   on project folder    
+    4 - Check localhost port of the app in console    
+    5 - Access endpoints with the localhost path    
