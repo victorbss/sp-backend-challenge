@@ -1,6 +1,7 @@
 # Backend Challenge
 
 API that consume the GitHub APIs (users and repositories endpoints).
+Update OAuth access token in api/controllers/userController.js to work
 
   - Notes:
 
