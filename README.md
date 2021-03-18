@@ -1,7 +1,7 @@
 # Backend Challenge
 
 API that consume the GitHub APIs (users and repositories endpoints).
-Update OAuth access token in api/controllers/userController.js to work
+Must update OAuth access token in api/controllers/userController.js
 
   - Notes:
 
@@ -13,7 +13,7 @@ Update OAuth access token in api/controllers/userController.js to work
     ```GET - /api/users/:username/details```  
     ```GET - /api/users/:username/repos```  
 
-    * For localhost tests need to:  
+    * For localhost tests:  
     1 - Clone this repo    
     2 - Run ```npm install```   on project folder    
     3 - Run ```node server.js```   on project folder    
